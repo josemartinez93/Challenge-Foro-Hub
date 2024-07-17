@@ -41,14 +41,14 @@ Foro Hub es una aplicación web de foro desarrollada con Spring Boot, diseñada 
 
 ## Ejecución del Proyecto
 
-1. Compila y ejecuta la aplicación con Maven:
++ Compila y ejecuta la aplicación con Maven:
 
     ```bash
     mvn clean install
     mvn spring-boot:run
     ```
 
-2. La aplicación estará disponible en `http://localhost:8080`.
++ La aplicación estará disponible en `http://localhost:8080`.
 
 
 ## Dependencias Utilizadas
